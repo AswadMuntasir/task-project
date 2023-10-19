@@ -1,0 +1,21 @@
+# dependencies
+/part-2.2/node_modules
+/part-2.2/.pnp
+/part-2.2/.pnp.js
+
+# testing
+/part-2.2/coverage
+
+# production
+/part-2.2/build
+
+# misc
+/part-2.2/.DS_Store
+/part-2.2/.env.local
+/part-2.2/.env.development.local
+/part-2.2/.env.test.local
+/part-2.2/.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
